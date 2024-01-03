@@ -1,0 +1,159 @@
+*{
+  margin: 0;
+  padding: 0;
+  font-family: sans-serif;
+}
+html{
+  scroll-behavior: smooth;
+ 
+}
+.NavTitle{
+  text-align: center;
+}
+.Categories{
+  display: flex;
+  justify-content: center;
+  list-style: none;
+  margin-bottom: 20px;
+}
+a{
+  align-items: center;
+}
+.NavTitle{
+  font-size: 30px;
+  margin-bottom: 20px;
+}
+.Category{
+  margin-right: 20px;
+  font-size: 20px;
+  border: 2px solid;
+  cursor: pointer;
+  padding: 10px 20px;
+
+}
+.BIGDIV{
+  width: 400vw;
+  display: flex;
+  transition: all ease 1.5s;
+  margin-bottom: 50px;
+
+}
+.clothes{
+  width: 25%;
+  display: flex;
+}
+
+
+.cloth1{
+  text-align: left;
+  width: 65vw;
+  margin: 20px;
+  border: 2px solid black;
+}
+.item1{
+  display: flex;
+  align-items: center;
+  
+}
+.item2{
+  display: flex;
+  align-items: center;
+}
+.itemTitle{
+  margin-left: 20px;
+  margin-right: 100px;
+}
+.MN{
+  display: flex;
+  justify-content: space-between;
+  padding: 5px 10px;
+  background-color: lightgray;
+  
+}
+.count{
+  width: 100px;
+  display: flex;
+  justify-content: space-between;
+}
+span{
+  margin-top: 50px;
+}
+.BuyButton{
+  position: absolute;
+  padding: 10px 20px;
+  background-color: black;
+  color: white;
+  cursor: pointer;
+  margin-left: 20px ;
+}
+
+.shoe1{
+  display: flex;
+  text-align: center;
+  width: 50vw;
+  margin: 20px;
+  border: 2px solid black;
+}
+.shoe2{
+  display: flex;
+  text-align: center;
+  width: 50vw;
+  margin: 20px;
+  border: 2px solid black;
+}
+.shoes{
+  width: 25%;
+  display: flex;
+}
+.bags{
+  width: 25%;
+  display: flex;
+}
+.watches{
+  width: 25%;
+  display: flex;
+}
+footer{
+  display: flex;
+}
+.title{
+  text-align: center;
+  justify-content: center;
+  display: flex;
+  width: 100vw;
+}
+.cartimg{
+  width: 100px;
+}
+.summaryTitle{
+  
+  margin-top: 10px;
+  margin-left: 10px;
+  
+  margin-bottom: 60px;
+}
+
+.cloth2{
+
+  width: 35vw;
+  margin: 20px;
+  border: 2px solid black;
+}
+.ios{
+  margin-right: 150px;
+}
+.shipping{
+  margin: 30px;
+}
+.ios{
+  font-size: 25px;
+}
+.apple{
+  font-size: 25px;
+}
+.Coupons{
+  font-size: 14px;
+  border-radius: 10px;
+  margin-left: 20px;
+
+}

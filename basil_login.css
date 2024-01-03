@@ -1,0 +1,32 @@
+body{
+  height: 300vh;
+  display: flex;
+
+  justify-content: center;
+  text-align: center;
+}
+html{
+  scroll-behavior: smooth;
+}
+h1{
+  font-size: 24px;
+}
+.Login{
+  height: 300px;
+  width: 300px;
+  background-color: aqua;
+}
+.Register{
+  height: 300px;
+  width: 300px;
+  background-color: brown;
+}
+.Update{
+  height: 300px;
+  width: 300px;
+  background-color: chartreuse;
+}
+.loll{
+  color: rgb(0, 0, 0);
+  text-decoration: underline rgb(0, 0, 0);
+}
